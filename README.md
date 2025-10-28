@@ -1,1 +1,1 @@
-# test asp.net core 1
+# test asp.net core 2
